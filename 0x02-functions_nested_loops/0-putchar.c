@@ -1,4 +1,5 @@
-#include "holberton.h"
+#include <stdio.h>
+#include <unistd.h>
 
 /**
  * main -  prints Holberton, followed by a new line
